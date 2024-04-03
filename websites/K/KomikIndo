@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.10",
+	"author": {
+		"name": "Wann",
+		"id": "258539446880829443"
+	},
+	"service": "KomikIndo",
+	"description": {
+		"en": "KomikIndo is a comic reading platform with the most complete list of comics in Indonesia.",
+		"id": "KomikIndo adalah platform baca komik dengan daftar komik paling lengkap di Indonesia."
+	},
+	"url": "komikindo.tv",
+	"version": "1.1.33",
+	"logo": "https://komikindo.tv/wp-content/uploads/2020/12/komikindo-e1704648943874.png",
+	"thumbnail": "https://esportsku.com/tech/wp-content/uploads/2023/09/komikindo.jpg",
+	"color": "#4165b3",
+	"category": "anime",
+	"tags": [
+		"comics",
+		"manga",
+		"reading",
+		"komikindo",
+		"other"
+	],
+	"settings": [
+		{
+			"id": "buttons",
+			"title": "Show Buttons",
+			"icon": "fas fa-compress-arrows-alt",
+			"value": true
+		},
+		{
+			"id": "timestamps",
+			"title": "Show timestamps",
+			"icon": "fad fa-stopwatch",
+			"value": true
+		}
+	]
+}
